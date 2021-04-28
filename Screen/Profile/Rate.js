@@ -7,13 +7,13 @@ import {
   View,
   Text,
 } from 'react-native';
-import {Constant} from '../Constant';
+import { Constant } from '../Constant';
 import axios from 'axios';
 class Rate extends Component {
   render() {
     return (
       <View >
-      <Text>Rate Page</Text>
+        <Text>Rate Page</Text>
       </View>
     );
   }

@@ -4,15 +4,15 @@ import Notes from '../Screen/Note/Notes';
 
 const NoteTop = createMaterialTopTabNavigator();
 
-export  const NotesTab = () =>{
-	return (
+export const NotesTab = () => {
+  return (
     <NoteTop.Navigator
       initialRouteName="Notes"
       tabBarOptions={{
-         activeTintColor: 'black',
-        inactiveTintColor:'#1ca6d1',
+        activeTintColor: 'black',
+        inactiveTintColor: '#1ca6d1',
         labelStyle: { fontSize: 8 },
-        style: {height:38, backgroundColor: '#ffffff' },
+        style: { height: 38, backgroundColor: '#ffffff' },
       }}
     >
       <NoteTop.Screen
@@ -20,7 +20,7 @@ export  const NotesTab = () =>{
         component={Notes}
         options={{ tabBarLabel: 'All' }}
       />
- 
+
     </NoteTop.Navigator>
   );
 }

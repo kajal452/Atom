@@ -1,0 +1,44 @@
+[
+    {
+      
+      "id": 1,
+      "color": "#0688d4",
+      "title": "NEETPG",
+      "content": "Category C 1"
+    },
+    {
+      
+        "id": 2,
+        "color": "#ea5b0c",
+        "title": "MBBSPROF",
+        "content": "Category C 2"
+      },
+      {
+       
+        "id": 3,
+        "color": "#e9940f",
+        "title": "FMGE",
+        "content": "Category C 3"
+      },
+      {
+      
+        "id": 4,
+        "color": "#d80fd7",
+        "title": "CONTACT",
+        "content": "Category C 4"
+      },
+      {
+      
+        "id": 5,
+        "color": "#3157a2",
+        "title": "QUICKQUERY",
+        "content": "Category C 5"
+      },
+      {
+      
+        "id": 6,
+        "color": "#25aae3",
+        "title": "Category 6",
+        "content": "Category C 6"
+      }
+]

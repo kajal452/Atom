@@ -7,13 +7,13 @@ import {
   View,
   Text,
 } from 'react-native';
-import {Constant} from '../Constant';
+import { Constant } from '../Constant';
 import axios from 'axios';
 class TermsOfUse extends Component {
   render() {
     return (
       <View >
-      <Text>TermsOfUse Page</Text>
+        <Text>TermsOfUse Page</Text>
       </View>
     );
   }
