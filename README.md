@@ -3,7 +3,7 @@ Doctor Material App
 
 This sample demonstrates basic usage of Doctor App
 
-Introduction
+Introduction Of Doctor App
 ------------
 
 This is react native expo project of latest version we use expo native web for use in local
@@ -16,7 +16,7 @@ You can see our live website [Atom Project][1].
 Pre-requisites
 --------------
 - expo 41.0.1
-- "@react-native-community/masked-view 0.1.10,
+- @react-native-community/masked-view 0.1.10,
 - react-navigation/bottom-tabs 5.11.10
 - react-navigation/drawer ^5.12.5",
 - react-navigation/material-top-tabs ^5.3.15,
@@ -26,19 +26,43 @@ Pre-requisites
 
 Screenshots
 -------------
-
+`Splash Screen`
 <img src="assets/screenshot/splash_screen.png" height="400" alt="Screenshot"/>
+
+`Login Screen`
 <img src="assets/screenshot/login_screen.png" height="400" alt="Screenshot"/>
+
+`Dashboard/Category Screen`
 <img src="assets/screenshot/category_screen.png" height="400" alt="Screenshot"/>
+
+`Drawer Menu Screen`
 <img src="assets/screenshot/drawer_menu_screen.png" height="400" alt="Screenshot"/>
+
+`Subcategory Screen`
 <img src="assets/screenshot/subcategory_screen.png" height="400" alt="Screenshot"/>
+
+`Active Test Screen`
 <img src="assets/screenshot/active_test_screen.png" height="400" alt="Screenshot"/>
+
+`Completed Test Screen`
 <img src="assets/screenshot/completed_test_screen.png" height="400" alt="Screenshot"/>
+
+`Missed Test Screen`
 <img src="assets/screenshot/missed_test_screen.png" height="400" alt="Screenshot"/>
+
+`Completed Video Screen`
 <img src="assets/screenshot/completed_video_screen.png" height="400" alt="Screenshot"/>
+
+`Free Video Screen`
 <img src="assets/screenshot/free_video_screen.png" height="400" alt="Screenshot"/>
+
+`Paused Video Screen`
 <img src="assets/screenshot/pause_video_screen.png" height="400" alt="Screenshot"/>
+
+`Ebook / Question Screen`
 <img src="assets/screenshot/ebook_screen.png" height="400" alt="Screenshot"/>
+
+`Subscription Screen`
 <img src="assets/screenshot/subscription_screen.png" height="400" alt="Screenshot"/>
 
 Getting Started
