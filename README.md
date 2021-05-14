@@ -26,43 +26,43 @@ Pre-requisites
 
 Screenshots
 -------------
-`Splash Screen`
+## Splash Screen
 <img src="assets/screenshot/splash_screen.png" height="400" alt="Screenshot"/>
 
-`Login Screen`
+## Login Screen
 <img src="assets/screenshot/login_screen.png" height="400" alt="Screenshot"/>
 
-`Dashboard/Category Screen`
+## Dashboard/Category Screen
 <img src="assets/screenshot/category_screen.png" height="400" alt="Screenshot"/>
 
-`Drawer Menu Screen`
+## Drawer Menu Screen
 <img src="assets/screenshot/drawer_menu_screen.png" height="400" alt="Screenshot"/>
 
-`Subcategory Screen`
+## Subcategory Screen
 <img src="assets/screenshot/subcategory_screen.png" height="400" alt="Screenshot"/>
 
-`Active Test Screen`
+## Active Test Screen
 <img src="assets/screenshot/active_test_screen.png" height="400" alt="Screenshot"/>
 
-`Completed Test Screen`
+## Completed Test Screen
 <img src="assets/screenshot/completed_test_screen.png" height="400" alt="Screenshot"/>
 
-`Missed Test Screen`
+## Missed Test Screen
 <img src="assets/screenshot/missed_test_screen.png" height="400" alt="Screenshot"/>
 
-`Completed Video Screen`
+## Completed Video Screen
 <img src="assets/screenshot/completed_video_screen.png" height="400" alt="Screenshot"/>
 
-`Free Video Screen`
+## Free Video Screen
 <img src="assets/screenshot/free_video_screen.png" height="400" alt="Screenshot"/>
 
-`Paused Video Screen`
+## Paused Video Screen
 <img src="assets/screenshot/pause_video_screen.png" height="400" alt="Screenshot"/>
 
-`Ebook / Question Screen`
+## Ebook / Question Screen
 <img src="assets/screenshot/ebook_screen.png" height="400" alt="Screenshot"/>
 
-`Subscription Screen`
+## Subscription Screen
 <img src="assets/screenshot/subscription_screen.png" height="400" alt="Screenshot"/>
 
 Getting Started
